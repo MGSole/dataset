@@ -1,0 +1,6 @@
+outs:
+- md5: bf2cb79e1e25d71536b04b614f9f04a3.dir
+  size: 3294956
+  nfiles: 85
+  hash: md5
+  path: resize
